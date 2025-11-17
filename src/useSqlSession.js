@@ -10,7 +10,7 @@ export default function useSqlSession() {
     (async () => {
       try {
         const SQL = await initSqlJs({
-          locateFile: file => "/sql-wasm.wasm"
+          locateFile: file => "/DigicoReport/sql-wasm.wasm"
         });
         SQLRef.current = SQL;
         setReady(true);
