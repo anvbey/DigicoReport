@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DigicoReport/static/css/main.e6c13ad2.css",
-    "main.js": "/DigicoReport/static/js/main.58082c6e.js",
+    "main.js": "/DigicoReport/static/js/main.ee7960ce.js",
     "static/js/453.7212f6f2.chunk.js": "/DigicoReport/static/js/453.7212f6f2.chunk.js",
     "index.html": "/DigicoReport/index.html",
     "main.e6c13ad2.css.map": "/DigicoReport/static/css/main.e6c13ad2.css.map",
-    "main.58082c6e.js.map": "/DigicoReport/static/js/main.58082c6e.js.map",
+    "main.ee7960ce.js.map": "/DigicoReport/static/js/main.ee7960ce.js.map",
     "453.7212f6f2.chunk.js.map": "/DigicoReport/static/js/453.7212f6f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.58082c6e.js"
+    "static/js/main.ee7960ce.js"
   ]
 }
