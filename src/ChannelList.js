@@ -249,7 +249,6 @@ export default function ChannelList({ db }) {
                             textAlign: "left",
                           }}
                         >
-                          <th style={{ padding: "6px 8px" }}>Id</th>
                           <th style={{ padding: "6px 8px" }}>Band</th>
                           <th style={{ padding: "6px 8px" }}>Freq (Hz)</th>
                           <th style={{ padding: "6px 8px" }}>Gain (dB)</th>
@@ -262,7 +261,6 @@ export default function ChannelList({ db }) {
                             key={idx}
                             style={{ borderBottom: "1px solid #f3f4f6" }}
                           >
-                            <td style={{ padding: "6px 8px" }}>{b.id}</td>
                             <td style={{ padding: "6px 8px" }}>{b.name}</td>
                             <td style={{ padding: "6px 8px" }}>
                               {b.frequency}
